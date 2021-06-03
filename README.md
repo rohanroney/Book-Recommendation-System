@@ -1,5 +1,5 @@
 # BOOK RECOMMENDATION SYSTEM
-These project is part of the “Machine Learning &Advanced Machine Learning” curriculum as capstone projects at [AlmaBetter](https://www.almabetter.com/). 
+These project is part of the “Machine Learning & Advanced Machine Learning” curriculum as capstone projects at [AlmaBetter](https://www.almabetter.com/). 
 
 #### -- Project Status: [Completed]
 
@@ -53,7 +53,7 @@ expressed by 0.
 
 - data exploration
 - data processing/cleaning
-- recommendation system developer
+- recommendation system development
 
 ## Getting Started
 
