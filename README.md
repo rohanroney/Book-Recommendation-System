@@ -63,7 +63,7 @@ expressed by 0.
 * Ratings_data is being kept [here](https://github.com/rohanroney/Book_Recommendation_System/blob/main/Ratings.csv) within this repo.
 * Books_data is being kept [here](https://github.com/rohanroney/Book_Recommendation_System/blob/main/Books.zip) 
     
-3. Complete notebook containing Data exploration/Data processing/transformation/model development is being kept [here](https://github.com/rohanroney/Book_Recommendation_System/blob/main/Book_Recommendation_System.ipynb)
+3. Complete notebook containing Data exploration/Data processing/transformation/model development is being kept [here](https://github.com/rohanroney/Book_Recommendation_System/blob/main/Book_Recommendation_System_Final.ipynb)
  
 
 * Feel free to contact me at  @rohanroney98@gmail.com with any questions.
